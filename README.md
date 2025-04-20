@@ -1,0 +1,1 @@
+# squashf_resize_openwrt
